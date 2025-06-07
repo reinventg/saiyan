@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>$SAIYAN - The Most Powerful Meme Token</title>
+  <style>
+    body {
+      background: #0c0c0c;
+      color: #f0f0f0;
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 { color: #FFD700; }
+    a { color: #00BFFF; text-decoration: none; }
+    .container { max-width: 800px; margin: auto; }
+    .button {
+      background: #FFD700;
+      color: black;
+      padding: 10px 20px;
+      margin-top: 20px;
+      border-radius: 8px;
+      font-weight: bold;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>$SAIYAN 🚀</h1>
+    <p>“His power level... it's over 9,000!”</p>
+    <h2>⚡ The Most Powerful Meme in the Universe</h2>
+    <p>$SAIYAN is a legendary fair-launch meme token inspired by raw power, vibes, and vertical charts.</p>
+
+    <h2>🔥 Tokenomics</h2>
+    <ul>
+      <li>💰 1 Billion Total Supply</li>
+      <li>📉 5% Tax → 2% Burn, 2% Reflection, 1% Liquidity</li>
+      <li>🧱 1% Max Tx | 2% Max Wallet</li>
+    </ul>
+
+    <h2>🛠 Contract</h2>
+    <code>0xYourContractAddressHere</code>
+
+    <h2>📈 How to Buy</h2>
+    <p>Swap BNB → $SAIYAN on <a href="https://pancakeswap.finance">PancakeSwap</a><br>Slippage: 5%</p>
+
+    <h2>📲 Join the Community</h2>
+    <p><a href="https://twitter.com/saiyantoken">Twitter</a> | <a href="https://t.me/saiyantoken">Telegram</a></p>
+
+    <a class="button" href="https://pancakeswap.finance" target="_blank">BUY NOW</a>
+  </div>
+</body>
+</html>
